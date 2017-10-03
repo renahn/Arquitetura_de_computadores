@@ -1,0 +1,15 @@
+C:/Users/renah/Desktop/Arquitetura/alu32_tb.sv {1 {vlog -work work -sv -stats=none C:/Users/renah/Desktop/Arquitetura/alu32_tb.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module alu32_tb
+
+Top level modules:
+	alu32_tb
+
+} {} {}} C:/Users/renah/Desktop/Arquitetura/alu32.sv {1 {vlog -work work -sv -stats=none C:/Users/renah/Desktop/Arquitetura/alu32.sv
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module alu32
+
+Top level modules:
+	alu32
+
+} {} {}}
